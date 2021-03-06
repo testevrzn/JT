@@ -17,6 +17,7 @@ ____██_____██
 🧐 *informações*
   🐊 Prefix: 「  ${prefix}  」
   🐊 Criador : JTX (VRAU) 
+  🐊 Whats: wa.me/559885018147
 🧐 *SOBRE*
   │
   ├─ 🐊 ${prefix}info
